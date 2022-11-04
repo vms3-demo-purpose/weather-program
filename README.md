@@ -5,11 +5,10 @@
 
 # How the containers will fit together
 There will be 4 containers:
-1. Container weather-pull-data will produce a [JSON](https://github.com/vms3-demo-purpose/weather-pull-data/files/9908242/01-11-2022.json.txt)
+1. Container weather-pull-data will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
 to be saved in a volume.
 2. Container weather-push-data will retrieve the JSON from the volume and push it to a container running MSSQL.
-3. Container weather-save-data will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-pull-data/files/9908251/CREATE_TABLE.sql.txt)
- based on data from the JSON.
+3. Container weather-save-data will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON.
 4. Container weather-show-data will present data by reading what is stored in the database.
 
 # Running the container
@@ -21,7 +20,7 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
 `docker logs weather-push-data`
 
-The above command should output something like: Pulled 1234 weather records for date: 01-11-2022.
+The above command should output the following: Pulled <number> weather records for date: <dd-MM-yyyy>.
 
 `docker logs --follow weather-push-data`
 
