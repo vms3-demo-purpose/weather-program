@@ -1,0 +1,32 @@
+version: "3"  
+services:
+  weather-pull-data:
+    container_name: weather-pull-data
+    environment:
+      TZ: "Asia/Singapore"
+    build: weather-pull-data/App/
+    volumes:
+      - volume:/data/pull
+
+  weather-push-data:
+    container_name: weather-push-data
+    environment:
+      DATABASE_PUBLIC_URL: "db"
+    build: weather-push-data/App/
+    volumes:
+      - volume:/data/push
+
+  weather-save-data:
+    container_name: weather-save-data
+    image: mcr.microsoft.com/mssql/server:2019-CU18-ubuntu-20.04
+    user: root
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "Passw0rd#"
+      MSSQL_PID: "Developer"
+    ports:
+      - "1433:1433"
+    volumes:
+      - volume:/var/opt/mssql/data
+volumes:
+  volume:
