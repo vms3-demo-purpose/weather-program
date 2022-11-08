@@ -1,7 +1,8 @@
 # General Flow
 1. Data is retrieved from https://api.data.gov.sg
 2. A portion of the entire JSON is extracted, transformed and rewritten into a JSON with 4 fields: Area, Forecast, Start Time and End Time.
-3. The saved JSON will be located in /data/pull and saved as dd-MM-yyyy.json, e.g. /data/pull/01-11.2022.json
+3. The saved JSON will be located in /data/pull (volume mount point) and saved as dd-MM-yyyy.json, e.g. /data/pull/01-11.2022.json
+4. This JSON will be retrieved from /data/push (volume mount point) and deserialised into WeatherRecord(s) to be pushed into a SQL Server.
 
 # How the containers will fit together
 There will be 4 containers:
