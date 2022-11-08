@@ -22,7 +22,7 @@ namespace WeatherApi.Data
             // Read from json
             var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
             var queryDate = singaporeTime.ToString("dd-MM-yyyy");
-            string pathToJson = "./DB_Files/" + queryDate + ".json";
+            string pathToJson = "/data/push/" + queryDate + ".json";
             String json = File.ReadAllText(pathToJson);
 
             // Deserialize json for insertion
