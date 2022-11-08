@@ -1,16 +1,16 @@
 # General Flow
 1. Data is retrieved from https://api.data.gov.sg
-2. A portion of the entire JSON is extracted, transformed and rewritten into a JSON with 4 fields: Area, Forecast, Start Time and End Time.
-3. The saved JSON will be located in /data/pull (volume mount point) and saved as dd-MM-yyyy.json, e.g. /data/pull/01-11.2022.json
-4. This JSON will be retrieved from /data/push (volume mount point) and deserialised into WeatherRecord(s) to be pushed into a SQL Server.
+2. A portion of the entire JSON is extracted, transformed and rewritten into a new JSON with only 4 fields: Area, Forecast, Start Time and End Time.
+3. The saved JSON will be located in `/data/pull/` (volume mount point) and saved as dd-MM-yyyy.json, e.g. `/data/pull/01-11.2022.json`
+4. This JSON will be retrieved from `/data/push/` (volume mount point) and deserialised into WeatherRecord(s) to be pushed into a SQL Server.
 
 # How the containers will fit together
 There will be 4 containers:
-1. Container weather-pull-data will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
-to be saved in a volume.
-2. Container weather-push-data will retrieve the JSON from the volume and push it to a container running MSSQL.
-3. Container weather-save-data will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON.
-4. Container weather-show-data will present data by reading what is stored in the database.
+A. Container weather-pull-data will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
+to be saved in a volume. (Steps 1 - 3)
+B. Container weather-push-data will retrieve the JSON from the volume and push it to a container running MSSQL. (Step 4)
+C. Container weather-save-data will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON. (Step 4)
+D. Container weather-show-data will present data by reading what is stored in the database.
 
 # Running the container
 Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/final` directory and run the following command:
