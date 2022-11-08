@@ -61,7 +61,7 @@ namespace WebApiClient
                                 });
 
                                 string newJSON = JsonConvert.SerializeObject(data.ToArray(), Formatting.Indented);
-                                System.IO.File.WriteAllText("./data/" + sqlDate + ".json", newJSON);
+                                System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
                             }
                         }
                         Console.WriteLine("Pulled {0} weather records for date: {1}.", data.Count, sqlDate);
