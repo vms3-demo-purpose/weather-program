@@ -23,7 +23,7 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
 # Verifying that each container is running properly:
 
-`docker logs weather-push-data`
+`docker logs weather-pull-data`
 
 The above command should output something like the following: `Pulled 1234 weather records for date: 01-01-1970.`
 
