@@ -20,7 +20,7 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
 `docker logs weather-push-data`
 
-The above command should output the following: Pulled <number> weather records for date: <dd-MM-yyyy>.
+The above command should output something like the following: Pulled 1234 weather records for date: 01-01-1970.
 
 `docker logs --follow weather-push-data`
 
@@ -32,7 +32,7 @@ The above command should output a loooong list of weather records, with ID, Area
 
 `<INPUT PASSWORD>`
 
-`SELECT * FROM weather_records;`
+`SELECT * FROM WeatherRecords;`
 
 `GO`
 
