@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WeatherApi.Data;
 
-// Probably don't need SQL files since DB is populated directly from the JSON file.
 // See if there's a way to incorporate connection_string.txt into appsettings.json?
 
 var builder = WebApplication.CreateBuilder(args);
