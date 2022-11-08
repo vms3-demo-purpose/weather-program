@@ -1,0 +1,7334 @@
+[
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 00:30:00",
+    "SqlEndTime": "2022-11-07 02:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:00:00",
+    "SqlEndTime": "2022-11-07 03:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 01:30:00",
+    "SqlEndTime": "2022-11-07 03:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:00:00",
+    "SqlEndTime": "2022-11-07 04:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 02:30:00",
+    "SqlEndTime": "2022-11-07 04:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:00:00",
+    "SqlEndTime": "2022-11-07 05:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 03:30:00",
+    "SqlEndTime": "2022-11-07 05:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:00:00",
+    "SqlEndTime": "2022-11-07 06:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 04:30:00",
+    "SqlEndTime": "2022-11-07 06:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:00:00",
+    "SqlEndTime": "2022-11-07 07:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Night)",
+    "SqlStartTime": "2022-11-07 05:30:00",
+    "SqlEndTime": "2022-11-07 07:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:00:00",
+    "SqlEndTime": "2022-11-07 08:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 06:30:00",
+    "SqlEndTime": "2022-11-07 08:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:00:00",
+    "SqlEndTime": "2022-11-07 09:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 07:30:00",
+    "SqlEndTime": "2022-11-07 09:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:00:00",
+    "SqlEndTime": "2022-11-07 10:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 08:30:00",
+    "SqlEndTime": "2022-11-07 10:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:00:00",
+    "SqlEndTime": "2022-11-07 11:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 09:30:00",
+    "SqlEndTime": "2022-11-07 11:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:00:00",
+    "SqlEndTime": "2022-11-07 12:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 10:30:00",
+    "SqlEndTime": "2022-11-07 12:30:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Ang Mo Kio",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bedok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bishan",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Boon Lay",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Batok",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Merah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Panjang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Bukit Timah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Central Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Changi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Choa Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Clementi",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "City",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Geylang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Hougang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jalan Bahar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jurong East",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jurong Island",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Jurong West",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Kallang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Lim Chu Kang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Mandai",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Marine Parade",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Novena",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pasir Ris",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Paya Lebar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pioneer",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pulau Tekong",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Pulau Ubin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Punggol",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Queenstown",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Seletar",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sembawang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sengkang",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sentosa",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Serangoon",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Southern Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Sungei Kadut",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tampines",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tanglin",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tengah",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Toa Payoh",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Tuas",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Western Islands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Western Water Catchment",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Woodlands",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  },
+  {
+    "Area": "Yishun",
+    "Forecast": "Partly Cloudy (Day)",
+    "SqlStartTime": "2022-11-07 11:00:00",
+    "SqlEndTime": "2022-11-07 13:00:00"
+  }
+]
