@@ -20,7 +20,7 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
 `docker logs weather-push-data`
 
-The above command should output the following: Pulled 1234 weather records for date: 01-01-1970.
+The above command should output something like the following: Pulled 1234 weather records for date: 01-01-1970.
 
 `docker logs --follow weather-push-data`
 
