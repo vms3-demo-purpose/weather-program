@@ -1,6 +1,8 @@
 ﻿using Newtonsoft.Json;
 using var db = new WeatherRecordContext();
 
+//var host = CreateHostBuilder(args).Build();
+
 // Start from clean slate
 var rows =  from o in db.WeatherRecords
             select o;
@@ -20,19 +22,18 @@ String json = File.ReadAllText(pathToJson);
 List<WeatherRecord> weatherRecords = JsonConvert.DeserializeObject<List<WeatherRecord>>(json);
 
 // Insert WeatherRecord
+int counter = 1;
 foreach (WeatherRecord wr in weatherRecords)
 {
+    wr.Id = counter++;
     db.Add(wr);
 }
 db.SaveChanges();
 
 // Read
 Console.WriteLine("Querying for all Weather Record");
-using (var context = db)
+var allRecords2 = db.WeatherRecords.ToList();
+foreach (WeatherRecord wr in allRecords2)
 {
-    var allRecords = context.WeatherRecords.ToList();
-    foreach (WeatherRecord wr in allRecords)
-    {
-        Console.WriteLine(wr);
-    }
+    Console.WriteLine(wr);
 }

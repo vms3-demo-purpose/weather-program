@@ -32,7 +32,7 @@ public class WeatherRecord
     public override string ToString()
     {
         return 
-            //"ID: " + Id + 
+            "\nID: " + Id + 
             "\nArea: " + Area +
             "\nForecast: " + Forecast + 
             "\nSqlStartTime: " + SqlStartTime + 

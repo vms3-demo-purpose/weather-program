@@ -11,7 +11,9 @@ services:
 
   weather-push-data:
     container_name: weather-push-data
-    build: WeatherApi
+    environment:
+      DATABASE_PUBLIC_URL: "db"
+    build: weather-push-data/App/
     volumes:
       - volume:/data/push
     depends_on:
