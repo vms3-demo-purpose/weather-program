@@ -9,7 +9,14 @@ namespace WebApiClient
 
         static async Task Main(String[] args)
         {
-            await CallWeatherAPI();
+            try
+            {
+                await CallWeatherAPI();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
             Console.Read();
         }
 
