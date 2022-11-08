@@ -32,7 +32,7 @@ The above command should output a loooong list of weather records, with ID, Area
 
 `<INPUT PASSWORD>`
 
-`SELECT * FROM weather_records;`
+`SELECT * FROM WeatherRecords;`
 
 `GO`
 
