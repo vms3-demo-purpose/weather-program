@@ -17,7 +17,7 @@ C. `weather-save-data` will store data in the following [schema](https://github.
 D. `weather-show-data` will present data by reading what is stored in the database.
 
 # Running the container
-Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/final` directory and run the following command:
+Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command:
 
 `docker compose up --build --force-recreate -d`
 
