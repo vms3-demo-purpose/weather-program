@@ -23,9 +23,21 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
 # Verifying that each container is running properly:
 
-To check if `weather-pull-data` is successful, run `docker logs --follow weather-pull-data`. The output should be something like `Pulled 1234 weather records for date: 01-01-1970.`. Press `Ctrl + C` to stop 'following' the logs. Note the number of weather records pulled here.
+To check if `weather-pull-data` is successful, run: 
 
-To check if `weather-push-data` is successful, run `docker logs --follow weather-push-data`. The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime, followed by some `INFO` messages. Again, press `Ctrl + C` to stop 'following' the logs. Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
+`docker logs --follow weather-pull-data`
+
+The output should be something like:
+
+`Pulled 1234 weather records for date: 01-01-1970.`
+
+Press `Ctrl + C` to stop 'following' the logs. Note the number of weather records pulled here.
+
+To check if `weather-push-data` is successful, run:
+
+`docker logs --follow weather-push-data`
+
+The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime, followed by some `INFO` messages. Again, press `Ctrl + C` to stop 'following' the logs. Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
 
 To double check if `weather-save-data` is successful, run the following commands:
 
