@@ -1,3 +1,7 @@
+# Weather-API vs weather-program:
+Weather-API passes JSON to DB, DB performs queries for data insertion
+weather-program deserialises JSON and uses EF Core to insert data into DB
+
 # General Flow
 1. Data is retrieved from [https://api.data.gov.sg](https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=2022-11-01)
 2. A portion of the entire JSON is extracted, transformed and rewritten into a new JSON with only 4 fields: Area, Forecast, Start Time and End Time.
