@@ -11,7 +11,7 @@ services:
 
   weather-push-data:
     container_name: weather-push-data
-    build: WeatherApi
+    build: weather-push-data
     volumes:
       - volume:/data/push
     depends_on:
