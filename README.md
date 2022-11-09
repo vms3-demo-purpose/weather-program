@@ -1,5 +1,5 @@
 # General Flow
-1. Data is retrieved from [https://api.data.gov.sg](https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=01-11-2022)
+1. Data is retrieved from [https://api.data.gov.sg](https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=2022-11-01)
 2. A portion of the entire JSON is extracted, transformed and rewritten into a new JSON with only 4 fields: Area, Forecast, Start Time and End Time.
 3. The saved JSON will be located in `/data/pull/` (volume mount point) and saved as dd-MM-yyyy.json, e.g. `/data/pull/01-11-2022.json`
 4. This JSON will be retrieved from `/data/push/` (volume mount point) and deserialised into WeatherRecord(s) to be pushed into a SQL Server.
