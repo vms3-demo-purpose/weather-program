@@ -14,7 +14,7 @@ const int retryIntervalSeconds = 6;
 const int retryAttempts = 10;
 bool connected = false;
 int retriesAttempted = 0;
-while (++retriesAttempted < retryAttempts)
+while (++retriesAttempted < retryAttempts && !connected)
 {
     Console.WriteLine("Attempting connection {0}/{1} in {2} seconds...", retriesAttempted, retryAttempts, retryIntervalSeconds);
     Thread.Sleep(retryIntervalSeconds * 1000);
