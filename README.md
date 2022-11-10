@@ -42,7 +42,7 @@ To check if `weather-push-data` is successful, run:
 
 `docker logs --follow weather-push-data`
 
-The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime, followed by some `INFO` messages. Again, press `Ctrl + C` to stop 'following' the logs. Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
+The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime. Again, press `Ctrl + C` to stop 'following' the logs. Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
 
 To double check if `weather-save-data` is successful, run the following commands:
 
