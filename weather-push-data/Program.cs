@@ -4,12 +4,16 @@ using WeatherApi.Data;
 // See if there's a way to incorporate connection_string.txt into appsettings.json?
 
 var builder = WebApplication.CreateBuilder(args);
+
 // Add services to the container.
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<WeatherContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("WeatherDb"))
-);
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("WeatherDb"));
+    options.LogTo(Console.WriteLine, LogLevel.Warning);
+});
+
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
