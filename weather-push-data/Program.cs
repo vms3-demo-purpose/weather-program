@@ -17,7 +17,7 @@ int retriesAttempted = 0;
 while (++retriesAttempted < retryAttempts && !connected)
 {
     Console.WriteLine("Attempting connection {0}/{1} in {2} seconds...", retriesAttempted, retryAttempts, retryIntervalSeconds);
-    Thread.Sleep(retryIntervalSeconds * 1000);
+    Thread.Sleep(retriesAttempted > 1 ? retryIntervalSeconds * 1000 : 0);
     try
     {
         builder.Services.AddDbContext<WeatherContext>(options =>

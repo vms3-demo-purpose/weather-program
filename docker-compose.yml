@@ -14,6 +14,8 @@ services:
     build: weather-push-data
     volumes:
       - volume:/data/push
+    depends_on:
+      - weather-save-data
 
   weather-save-data:
     container_name: weather-save-data
