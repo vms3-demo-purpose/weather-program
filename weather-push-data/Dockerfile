@@ -13,6 +13,5 @@ RUN dotnet publish -c Release -o out
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app/out
 COPY --from=build-env /app/out .
-ADD /DB_Files /app/out/DB_Files
 ADD appsettings.json .
 CMD ["dotnet", "WeatherApi.dll"]
