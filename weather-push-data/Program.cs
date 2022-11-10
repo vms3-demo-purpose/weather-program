@@ -11,7 +11,9 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<WeatherContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("WeatherDb"));
-    options.LogTo(Console.WriteLine, LogLevel.Warning);
+    options.LogTo(Console.WriteLine, 
+        (eventId, logLevel) => logLevel >= LogLevel.Warning
+    );
 });
 
 var app = builder.Build();
