@@ -3,7 +3,6 @@ WORKDIR /app
 
 # Restore as distinct layers
 COPY *.csproj ./
-COPY appsettings.json ./
 RUN dotnet restore
 
 # Copy everything and build
@@ -14,4 +13,5 @@ RUN dotnet publish -c Release -o out
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app/out
 COPY --from=build-env /app/out .
+ADD appsettings.json .
 ENTRYPOINT ["dotnet", "WeatherApi.dll"]
