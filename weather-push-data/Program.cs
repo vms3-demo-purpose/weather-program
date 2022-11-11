@@ -50,3 +50,4 @@ using (var scope = app.Services.CreateScope())
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
+Console.Read();
