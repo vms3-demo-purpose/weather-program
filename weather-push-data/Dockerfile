@@ -3,6 +3,7 @@ WORKDIR /app
 
 # Restore as distinct layers
 COPY *.csproj ./
+COPY appsettings.json ./
 RUN dotnet restore
 
 # Copy everything and build
