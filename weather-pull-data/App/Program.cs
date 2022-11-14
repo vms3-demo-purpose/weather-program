@@ -11,7 +11,9 @@ namespace WebApiClient
         {
             try
             {
+                Console.WriteLine("Before CallWeatherAPI");
                 await CallWeatherAPI();
+                Console.WriteLine("After CallWeatherAPI");
             }
             catch (Exception e)
             {
@@ -33,12 +35,14 @@ namespace WebApiClient
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri(api_url + queryDate);
+                Console.WriteLine("client.BaseAddress = " + api_url + queryDate);
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
                 HttpResponseMessage response = await client.GetAsync(api_url + queryDate);
                 if (response.IsSuccessStatusCode)
                 {
+                    Console.WriteLine("response.IsSuccessStatusCode: " + response.IsSuccessStatusCode);
                     // This contains the entire JSON, of which we only want a subset of
                     WeatherData weatherData = JsonConvert.DeserializeObject<WeatherData>(await response.Content.ReadAsStringAsync());
                     // WeatherData contains EVERYTHING. Data contains only the bits that we want
