@@ -9,6 +9,7 @@
 
 # My Project
 bin/
+weather-pull-data/data/pull/
 
 # User-specific files
 *.rsuser
