@@ -10,7 +10,7 @@ weather-program deserialises JSON and uses EF Core to insert data into DB
 4. This JSON will be retrieved from `/data/push/` (volume mount point) and deserialised into WeatherRecord(s) to be pushed into a SQL Server.
 
 # How the containers will fit together
-There will be 4 containers:
+There will be 3 containers:
 
 A. `weather-pull-data` will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
 to be saved in a volume. (Steps 1 - 3)
@@ -19,12 +19,12 @@ B. `weather-push-data` will retrieve the JSON from the volume and push it to a c
 
 C. `weather-save-data` will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON. (Step 4)
 
-D. `weather-show-data` will present data by reading what is stored in the database.
+Another front-end will be connecting to `weather-save-data` to retrieve weather records to be visually displayed. 
 
 # Running the container
 Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command:
 
-`docker compose up --build --force-recreate -d`
+`docker compose up --build -d`
 
 # Verifying that each container is running properly:
 
@@ -72,4 +72,5 @@ Restart the Host Network Service with the following commands:
   
 `net start hns`
 
+2. Sometimes `weather-push-data` cannot establish connection to `weather-save-data` as the database has not finished initialisation. Logic has been implemented to restart `weather-push-data` so just give it a minute and it will start pushing data into `weather-save-data`.
 
