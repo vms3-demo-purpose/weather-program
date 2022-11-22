@@ -3,6 +3,8 @@ using WeatherApi.Data;
 
 // 14 Nov: Fix program not reading appsettings.json's connection string
 
+// Start of removal of retry logic within program
+
 try
 {
     var builder = WebApplication.CreateBuilder();//args);
