@@ -42,7 +42,7 @@ try
     using (var scope = app.Services.CreateScope())
     {
         var weatherContext = scope.ServiceProvider.GetRequiredService<WeatherContext>();
-        //weatherContext.Database.EnsureCreated();
+        weatherContext.Database.EnsureCreated();
         weatherContext.Seed();
     }
 
