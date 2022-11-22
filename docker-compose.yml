@@ -4,7 +4,7 @@ services:
     container_name: weather-pull-data
     environment:
       TZ: "Asia/Singapore"
-    build: weather-pull-data/App/
+    build: weather-pull-data
     volumes:
       - volume:/data/pull
     tty: true
