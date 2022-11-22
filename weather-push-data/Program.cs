@@ -4,6 +4,7 @@ using WeatherApi.Data;
 // 14 Nov: Fix program not reading appsettings.json's connection string
 
 var builder = WebApplication.CreateBuilder();
+builder.Configuration.AddJsonFile("appsettings.json");
     
 builder.Services.AddControllers();
 
