@@ -1,9 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WeatherApi.Data;
 
-// TODO: Standardise frameworks to ef-core
-// TODO: Remove out folder and delete any weatherdata.json files
-
 // Create builder
 var builder = WebApplication.CreateBuilder();
 
