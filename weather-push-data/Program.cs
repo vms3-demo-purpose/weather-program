@@ -5,9 +5,9 @@ using WeatherApi.Data;
 
 var builder = WebApplication.CreateBuilder();
 builder.Configuration.AddJsonFile("appsettings.json");
+builder.Configuration.AddJsonFile("appsettings.Development.json");
     
 builder.Services.AddControllers();
-
 builder.Services.AddDbContext<WeatherContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("WeatherDb"))
 );
