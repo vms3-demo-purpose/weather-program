@@ -6,7 +6,7 @@ namespace WeatherApi.Data
         public static void Seed(this WeatherContext weatherContext)
         {
             // Wipe previously existing data
-            if (!weatherContext.WeatherRecords.Any())
+            if (weatherContext.WeatherRecords.Any())
             {
                 var rows =  from o in weatherContext.WeatherRecords
                             select o;

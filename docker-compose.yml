@@ -16,6 +16,7 @@ services:
       - volume:/data/push
     depends_on:
       - weather-save-data
+    restart: unless-stopped
 
   weather-save-data:
     container_name: weather-save-data

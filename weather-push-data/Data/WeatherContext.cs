@@ -8,10 +8,6 @@ namespace WeatherApi.Data
 
         public WeatherContext(DbContextOptions<WeatherContext> options) : base(options)
         {
-        }    
-
-        public WeatherContext()
-        {
-        }    
+        }      
     }
 }

@@ -1,15 +1,16 @@
 using Microsoft.EntityFrameworkCore;
 using WeatherApi.Data;
 
-// See if there's a way to incorporate connection_string.txt into appsettings.json?
+// 14 Nov: Fix program not reading appsettings.json's connection string
 
-var builder = WebApplication.CreateBuilder(args);
-// Add services to the container.
-
+var builder = WebApplication.CreateBuilder();
+    
 builder.Services.AddControllers();
+
 builder.Services.AddDbContext<WeatherContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("WeatherDb"))
 );
+
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
@@ -22,7 +23,7 @@ using (var scope = app.Services.CreateScope())
 // Configure the HTTP request pipeline.
 
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();
+
+Console.Read();
