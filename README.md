@@ -64,13 +64,15 @@ The above string of commands should also output a loooong list of weather record
 3. .NET: 6.0.402
 
 # Troubleshooting
-1. Error response from daemon: Ports are not available ... An attempt was made to access a socket in a way forbidden by its access permissions.
+Q1. Error response from daemon: Ports are not available ... An attempt was made to access a socket in a way forbidden by its access permissions.
 
-Restart the Host Network Service with the following commands:
+A1. Restart the Host Network Service with the following commands:
   
-`net stop hns`
+    `net stop hns`
   
-`net start hns`
+    `net start hns`
 
-2. Sometimes `weather-push-data` cannot establish connection to `weather-save-data` as the database has not finished initialisation. Logic has been implemented to restart `weather-push-data` so just give it a minute and it will start pushing data into `weather-save-data`.
+Q2. Sometimes `weather-push-data` cannot establish connection to `weather-save-data` as the database has not finished initialisation. 
+
+A2. Just wait. Logic has been implemented to restart `weather-push-data` so just give it a minute and it will start pushing data into `weather-save-data`.
 
