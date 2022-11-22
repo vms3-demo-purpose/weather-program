@@ -66,11 +66,7 @@ The above string of commands should also output a loooong list of weather record
 # Troubleshooting
 Q1. Error response from daemon: Ports are not available ... An attempt was made to access a socket in a way forbidden by its access permissions.
 
-A1. Restart the Host Network Service with the following commands:
-  
-    `net stop hns`
-  
-    `net start hns`
+A1. Restart the Host Network Service with the following commands:   `net stop hns` `net start hns`
 
 Q2. Sometimes `weather-push-data` cannot establish connection to `weather-save-data` as the database has not finished initialisation. 
 
