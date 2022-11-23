@@ -1,29 +1,13 @@
-﻿using System.Net.Http.Headers;
+using System.Net.Http.Headers;
 using Newtonsoft.Json;
 
 namespace WebApiClient
 {
-    class Program
+    class PullFromDataGov : IWeather
     {
-        const string api_url = "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=";
-
-        static async Task Main(String[] args)
-        {
-            try
-            {
-                PullFromDataGov dataGov = new PullFromDataGov();
-                await dataGov.CallWeatherApi(dataGov.api_url);
-                //await CallWeatherAPI();
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-            }
-            Console.Read();
-        }
-
-        /*
-        static async Task CallWeatherAPI()
+        private String url = "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=";
+        
+        public async Task CallWeatherApi(string url)
         {
             // API takes in a date in yyyy-MM-dd format as part of the query
             var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
@@ -76,6 +60,7 @@ namespace WebApiClient
                 }
             }
         }
-        */
+
+        public string api_url { get; set; }
     }
 }
