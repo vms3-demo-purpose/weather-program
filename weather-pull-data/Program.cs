@@ -12,7 +12,7 @@ namespace WebApiClient
             try
             {
                 PullFromDataGov dataGov = new PullFromDataGov();
-                await dataGov.CallWeatherApi(dataGov.api_url);
+                await dataGov.CallWeatherApi();
                 //await CallWeatherAPI();
             }
             catch (Exception e)

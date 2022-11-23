@@ -7,7 +7,7 @@ namespace WebApiClient
     {
         private String url = "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=";
         
-        public async Task CallWeatherApi(string url)
+        public async Task CallWeatherApi()
         {
             // API takes in a date in yyyy-MM-dd format as part of the query
             var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
@@ -19,11 +19,11 @@ namespace WebApiClient
             // Pull data from API, extract relevant bits and write to new JSON file
             using (var client = new HttpClient())
             {
-                client.BaseAddress = new Uri(api_url + queryDate);
+                client.BaseAddress = new Uri(url + queryDate);
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                HttpResponseMessage response = await client.GetAsync(api_url + queryDate);
+                HttpResponseMessage response = await client.GetAsync(url + queryDate);
                 if (response.IsSuccessStatusCode)
                 {
                     // This contains the entire JSON, of which we only want a subset of
@@ -60,7 +60,5 @@ namespace WebApiClient
                 }
             }
         }
-
-        public string api_url { get; set; }
     }
 }
