@@ -44,19 +44,19 @@ namespace WebApiClient
                 if (response.IsSuccessStatusCode)
                 {
                     // This contains the entire JSON, of which we only want a subset of
-                    WeatherData weatherData = JsonConvert.DeserializeObject<WeatherData>(await response.Content.ReadAsStringAsync());
-                    // WeatherData contains EVERYTHING. Data contains only the bits that we want
-                    List<Data> data = new List<Data>();
+                    APIData APIData = JsonConvert.DeserializeObject<APIData>(await response.Content.ReadAsStringAsync());
+                    // APIData contains EVERYTHING. Data contains only the bits that we want
+                    List<WeatherRecord> data = new List<WeatherRecord>();
 
-                    if (weatherData is not null)
+                    if (APIData is not null)
                     {
-                        foreach (Item i in weatherData.items)
+                        foreach (Item i in APIData.items)
                         {
                             DateTime start = i.valid_period.start;
                             DateTime end = i.valid_period.end;
                             foreach (Forecast f in i.forecasts)
                             {
-                                data.Add(new Data()
+                                data.Add(new WeatherRecord()
                                 {
                                     Area = f.area,
                                     Forecast = f.forecast,
@@ -84,17 +84,17 @@ namespace WebApiClient
             {
                 // This uses a local copy of 24th November 2022's full JSON
                 var offlineJSON = File.ReadAllText("response_1669254678978.json");
-                WeatherData weatherData = JsonConvert.DeserializeObject<WeatherData>(offlineJSON);
+                APIData APIData = JsonConvert.DeserializeObject<APIData>(offlineJSON);
 
-                List<Data> data = new List<Data>();
+                List<WeatherRecord> data = new List<WeatherRecord>();
 
-                foreach (Item i in weatherData.items)
+                foreach (Item i in APIData.items)
                 {
                     DateTime start = i.valid_period.start;
                     DateTime end = i.valid_period.end;
                     foreach (Forecast f in i.forecasts)
                     {
-                        data.Add(new Data()
+                        data.Add(new WeatherRecord()
                         {
                             Area = f.area,
                             Forecast = f.forecast,

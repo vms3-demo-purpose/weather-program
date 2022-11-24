@@ -1,7 +1,7 @@
 namespace WebApiClient
 {
-    // WeatherData myDeserializedClass = JsonConvert.DeserializeObject<WeatherData>(myJsonResponse);
-    public class WeatherData
+    // APIData myDeserializedClass = JsonConvert.DeserializeObject<APIData>(myJsonResponse);
+    public class APIData
     {
         public List<AreaMetadatum> area_metadata { get; set; }
         public List<Item> items { get; set; }

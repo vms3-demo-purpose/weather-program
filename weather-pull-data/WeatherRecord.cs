@@ -1,6 +1,6 @@
 namespace WebApiClient
 {
-    public class Data
+    public class WeatherRecord
     {
         public string Area { get; set; }
         public string Forecast { get; set; }
