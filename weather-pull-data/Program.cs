@@ -9,9 +9,20 @@ namespace WebApiClient
 
         static async Task Main(String[] args)
         {
+            // API takes in a date in yyyy-MM-dd format as part of the query
+            var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
+            string queryDate = singaporeTime.ToString("yyyy-MM-dd");
+
+            // SQL's DATETIME data type uses a different format dd-MM-yyyy HH:mm:ss
+            string sqlDate = singaporeTime.ToString("dd-MM-yyyy");
+
             try
             {
-                await CallWeatherAPI();
+                // If API is up, use this
+                //await CallWeatherAPI(queryDate, sqlDate);  
+
+                // If API is down, use this
+                CallWeatherAPIOffline("2022-11-24", "24-11-2022"); 
             }
             catch (Exception e)
             {
@@ -20,15 +31,8 @@ namespace WebApiClient
             Console.Read();
         }
 
-        static async Task CallWeatherAPI()
+        static async Task CallWeatherAPI(string queryDate, string sqlDate)
         {
-            // API takes in a date in yyyy-MM-dd format as part of the query
-            var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
-            string queryDate = singaporeTime.ToString("yyyy-MM-dd");
-
-            // SQL's DATETIME data type uses a different format dd-MM-yyyy HH:mm:ss
-            string sqlDate = singaporeTime.ToString("dd-MM-yyyy");
-
             // Pull data from API, extract relevant bits and write to new JSON file
             using (var client = new HttpClient())
             {
@@ -71,6 +75,42 @@ namespace WebApiClient
                         Console.WriteLine("Failed response code: {0}", response.StatusCode);
                     }
                 }
+            }
+        }
+
+        static void CallWeatherAPIOffline(string queryDate, string sqlDate)
+        {
+            try
+            {
+                // This uses a local copy of 24th November 2022's full JSON
+                var offlineJSON = File.ReadAllText("response_1669254678978.json");
+                WeatherData weatherData = JsonConvert.DeserializeObject<WeatherData>(offlineJSON);
+
+                List<Data> data = new List<Data>();
+
+                foreach (Item i in weatherData.items)
+                {
+                    DateTime start = i.valid_period.start;
+                    DateTime end = i.valid_period.end;
+                    foreach (Forecast f in i.forecasts)
+                    {
+                        data.Add(new Data()
+                        {
+                            Area = f.area,
+                            Forecast = f.forecast,
+                            SqlStartTime = start.ToString("yyyy-MM-dd HH:mm:ss"),
+                            SqlEndTime = end.ToString("yyyy-MM-dd HH:mm:ss")
+                        });
+
+                        string newJSON = JsonConvert.SerializeObject(data.ToArray(), Formatting.Indented);
+                        System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
+                    }
+                }
+                Console.WriteLine("Pulled {0} weather records for date: {1}.", data.Count, sqlDate);
+            } 
+            catch (Exception e )
+            {
+                Console.WriteLine(e);
             }
         }
     }
