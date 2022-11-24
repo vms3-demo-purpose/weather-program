@@ -25,9 +25,9 @@ namespace WebApiClient
             // API takes in a date in yyyy-MM-dd format as part of the query
             var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
             string queryDate = singaporeTime.ToString("yyyy-MM-dd");
-
             // SQL's DATETIME data type uses a different format dd-MM-yyyy HH:mm:ss
             string sqlDate = singaporeTime.ToString("dd-MM-yyyy");
+            
             // Pull data from API, extract relevant bits and write to new JSON file
             using (var client = new HttpClient())
             {
