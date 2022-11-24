@@ -69,6 +69,7 @@ namespace WebApiClient
                         }
                     }
                     Console.WriteLine("Pulled {0} weather records for date: {1}.", weatherRecord.Count, sqlDate);
+                    return;
                 }
                 Console.WriteLine("Failed response code: {0}", response.StatusCode);
             }
