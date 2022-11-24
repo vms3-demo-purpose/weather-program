@@ -9,20 +9,9 @@ namespace WebApiClient
 
         static async Task Main(String[] args)
         {
-            // API takes in a date in yyyy-MM-dd format as part of the query
-            var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
-            string queryDate = singaporeTime.ToString("yyyy-MM-dd");
-
-            // SQL's DATETIME data type uses a different format dd-MM-yyyy HH:mm:ss
-            string sqlDate = singaporeTime.ToString("dd-MM-yyyy");
-
             try
             {
-                // If API is up, use this
-                //await CallWeatherAPI(queryDate, sqlDate);  
-
-                // If API is down, use this
-                CallWeatherAPIOffline("2022-11-24", "24-11-2022"); 
+                await CallWeatherAPI();  
             }
             catch (Exception e)
             {
@@ -31,8 +20,14 @@ namespace WebApiClient
             Console.Read();
         }
 
-        static async Task CallWeatherAPI(string queryDate, string sqlDate)
+        static async Task CallWeatherAPI()
         {
+            // API takes in a date in yyyy-MM-dd format as part of the query
+            var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
+            string queryDate = singaporeTime.ToString("yyyy-MM-dd");
+
+            // SQL's DATETIME data type uses a different format dd-MM-yyyy HH:mm:ss
+            string sqlDate = singaporeTime.ToString("dd-MM-yyyy");
             // Pull data from API, extract relevant bits and write to new JSON file
             using (var client = new HttpClient())
             {
@@ -43,74 +38,39 @@ namespace WebApiClient
                 HttpResponseMessage response = await client.GetAsync(api_url + queryDate);
                 if (response.IsSuccessStatusCode)
                 {
-                    // This contains the entire JSON, of which we only want a subset of
-                    APIData APIData = JsonConvert.DeserializeObject<APIData>(await response.Content.ReadAsStringAsync());
-                    // APIData contains EVERYTHING. Data contains only the bits that we want
-                    List<WeatherRecord> data = new List<WeatherRecord>();
+                    // If API is down, the response is still success but body basically says "Internal Server Error".
+                    string jsonResponse = await response.Content.ReadAsStringAsync();
+                    bool internalServerError = jsonResponse.Contains("Internal Server Error");
+                    // If API is down, read from offline backup, else read from response
+                    APIData apiData = JsonConvert.DeserializeObject<APIData>(internalServerError ? 
+                        File.ReadAllText("offline_response.json") : 
+                        await response.Content.ReadAsStringAsync()
+                    );
 
-                    if (APIData is not null)
+                    // APIData contains EVERYTHING. WeatherRecord contains only the bits that we want
+                    List<WeatherRecord> weatherRecord = new List<WeatherRecord>();
+                    
+                    foreach (Item i in apiData.items)
                     {
-                        foreach (Item i in APIData.items)
+                        DateTime start = i.valid_period.start;
+                        DateTime end = i.valid_period.end;
+                        foreach (Forecast f in i.forecasts)
                         {
-                            DateTime start = i.valid_period.start;
-                            DateTime end = i.valid_period.end;
-                            foreach (Forecast f in i.forecasts)
+                            weatherRecord.Add(new WeatherRecord()
                             {
-                                data.Add(new WeatherRecord()
-                                {
-                                    Area = f.area,
-                                    Forecast = f.forecast,
-                                    SqlStartTime = start.ToString("yyyy-MM-dd HH:mm:ss"),
-                                    SqlEndTime = end.ToString("yyyy-MM-dd HH:mm:ss")
-                                });
+                                Area = f.area,
+                                Forecast = f.forecast,
+                                SqlStartTime = start.ToString("yyyy-MM-dd HH:mm:ss"),
+                                SqlEndTime = end.ToString("yyyy-MM-dd HH:mm:ss")
+                            });
 
-                                string newJSON = JsonConvert.SerializeObject(data.ToArray(), Formatting.Indented);
-                                System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
-                            }
+                            string newJSON = JsonConvert.SerializeObject(weatherRecord.ToArray(), Formatting.Indented);
+                            System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
                         }
-                        Console.WriteLine("Pulled {0} weather records for date: {1}.", data.Count, sqlDate);
-                    } 
-                    else 
-                    {
-                        Console.WriteLine("Failed response code: {0}", response.StatusCode);
                     }
+                    Console.WriteLine("Pulled {0} weather records for date: {1}.", weatherRecord.Count, sqlDate);
                 }
-            }
-        }
-
-        static void CallWeatherAPIOffline(string queryDate, string sqlDate)
-        {
-            try
-            {
-                // This uses a local copy of 24th November 2022's full JSON
-                var offlineJSON = File.ReadAllText("response_1669254678978.json");
-                APIData APIData = JsonConvert.DeserializeObject<APIData>(offlineJSON);
-
-                List<WeatherRecord> data = new List<WeatherRecord>();
-
-                foreach (Item i in APIData.items)
-                {
-                    DateTime start = i.valid_period.start;
-                    DateTime end = i.valid_period.end;
-                    foreach (Forecast f in i.forecasts)
-                    {
-                        data.Add(new WeatherRecord()
-                        {
-                            Area = f.area,
-                            Forecast = f.forecast,
-                            SqlStartTime = start.ToString("yyyy-MM-dd HH:mm:ss"),
-                            SqlEndTime = end.ToString("yyyy-MM-dd HH:mm:ss")
-                        });
-
-                        string newJSON = JsonConvert.SerializeObject(data.ToArray(), Formatting.Indented);
-                        System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
-                    }
-                }
-                Console.WriteLine("Pulled {0} weather records for date: {1}.", data.Count, sqlDate);
-            } 
-            catch (Exception e )
-            {
-                Console.WriteLine(e);
+                Console.WriteLine("Failed response code: {0}", response.StatusCode);
             }
         }
     }
