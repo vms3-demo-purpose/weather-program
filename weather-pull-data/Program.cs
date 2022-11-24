@@ -68,7 +68,8 @@ namespace WebApiClient
                             System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
                         }
                     }
-                    Console.WriteLine("Pulled {0} weather records for date: {1}.", weatherRecord.Count, sqlDate);
+                    Console.Write("Pulled {0} weather records for date: {1} from ", weatherRecord.Count, sqlDate);
+                    Console.WriteLine(internalServerError ? "offline backup." : "data.gov.sg.");
                     return;
                 }
                 Console.WriteLine("Failed response code: {0}", response.StatusCode);
