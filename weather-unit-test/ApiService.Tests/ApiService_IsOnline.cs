@@ -26,6 +26,7 @@ namespace Api.UnitTests.Services
         [Test]
         public async Task ApiIsOnline()
         {
+            Console.WriteLine("\nTesting if API is online...");
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri(api_url + queryDate);
@@ -34,7 +35,7 @@ namespace Api.UnitTests.Services
                 HttpResponseMessage response = await client.GetAsync(api_url + queryDate);
                 
                 string jsonResponse = await response.Content.ReadAsStringAsync();
-                File.WriteAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, "test-data", queryDate + "_response.json"), jsonResponse);
+                System.IO.File.WriteAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_response.json"), jsonResponse);
                 bool isOnline = !jsonResponse.Contains("Internal Server Error");  
 
                 Console.WriteLine(isOnline ? "API is online." : "API is offline.");
@@ -50,10 +51,11 @@ namespace Api.UnitTests.Services
         [Test]
         public void JsonDeserializesToWeatherRecord()
         {
+            Console.WriteLine("Testing if JSON retrieved can be deserialised...");
             bool success = false;
             try
             {
-                var json = File.ReadAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, "test-data", queryDate + "_response.json"));
+                var json = File.ReadAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_response.json"));
                 APIData apiData = JsonConvert.DeserializeObject<APIData>(json);
                 List<WeatherRecord> weatherRecords = new List<WeatherRecord>();
                 
@@ -73,13 +75,13 @@ namespace Api.UnitTests.Services
                     }
                 }
                 var newJSON = JsonConvert.SerializeObject(weatherRecords.ToArray(), Formatting.Indented);
-                File.WriteAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, "test-data", queryDate + "_output.json"), newJSON);
+                File.WriteAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_output.json"), newJSON);
                 success = true;
             } catch (Exception e)
             {
                 Console.WriteLine(e);
             }
-            Console.WriteLine(success ? "JSON can be deserialized to WeatherRecords." : "JSON cannot be deserialized to WeatherRecords.");
+            Console.Write(success ? "JSON can be deserialised to WeatherRecords." : "JSON cannot be deserialised to WeatherRecords.");
             Assert.IsTrue(success);
         }
     }

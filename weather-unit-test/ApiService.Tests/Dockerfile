@@ -6,7 +6,12 @@ COPY *.csproj ./
 RUN dotnet restore
 
 # Copy everything and build
+WORKDIR /app
 COPY . ./
 RUN dotnet publish -c Release -o out
+
+# Build runtime image
+FROM mcr.microsoft.com/dotnet/sdk:6.0
+WORKDIR /app/out
 COPY --from=build-env /app/out .
-ENTRYPOINT ["dotnet", "test"]
+CMD ["dotnet", "test", "ApiService.Tests.dll"]
