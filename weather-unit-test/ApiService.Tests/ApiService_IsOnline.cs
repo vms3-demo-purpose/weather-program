@@ -53,9 +53,12 @@ namespace Api.UnitTests.Services
         {
             Console.WriteLine("Testing if JSON retrieved can be deserialised...");
             bool success = false;
+            string directory = Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_response.json");
+
             try
             {
-                var json = File.ReadAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_response.json"));
+                var json = File.ReadAllText(directory);
+
                 APIData apiData = JsonConvert.DeserializeObject<APIData>(json);
                 List<WeatherRecord> weatherRecords = new List<WeatherRecord>();
                 
@@ -76,10 +79,16 @@ namespace Api.UnitTests.Services
                 }
                 var newJSON = JsonConvert.SerializeObject(weatherRecords.ToArray(), Formatting.Indented);
                 File.WriteAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_output.json"), newJSON);
+                throw new JsonSerializationException();
                 success = true;
-            } catch (Exception e)
+            } 
+            catch (FileNotFoundException e)
             {
-                Console.WriteLine(e);
+                Console.WriteLine("FileNotFoundException: {0}\nDirectory: {1}", e, directory);
+            }
+            catch (JsonSerializationException e)
+            {
+                Console.WriteLine("JsonSerializationException: {0}", e);
             }
             Console.Write(success ? "JSON can be deserialised to WeatherRecords." : "JSON cannot be deserialised to WeatherRecords.");
             Assert.IsTrue(success);
