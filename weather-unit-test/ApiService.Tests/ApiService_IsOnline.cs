@@ -7,15 +7,12 @@ namespace Api.UnitTests.Services
     [TestFixture]
     public class ApiService_IsOnline
     {
-        string api_url; 
-        DateTime singaporeTime;
         string queryDate;
 
         [SetUp]
         public void SetUp()
-        {  
-            api_url = "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=";
-            singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
+        {
+            DateTime singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
             queryDate = singaporeTime.ToString("yyyy-MM-dd");
         }
 
@@ -29,6 +26,7 @@ namespace Api.UnitTests.Services
             Console.WriteLine("\nTesting if API is online...");
             using (var client = new HttpClient())
             {
+                string api_url = "https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=";
                 client.BaseAddress = new Uri(api_url + queryDate);
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
