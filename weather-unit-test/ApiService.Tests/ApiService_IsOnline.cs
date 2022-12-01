@@ -51,11 +51,12 @@ namespace Api.UnitTests.Services
         {
             Console.WriteLine("Testing if JSON retrieved can be deserialised...");
             bool success = false;
-            string directory = Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_response.json");
+            string inputDirectory = Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_response.json");
+            string outputDirectory = Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_output.json");
 
             try
             {
-                var json = File.ReadAllText(directory);
+                var json = File.ReadAllText(inputDirectory);
 
                 APIData apiData = JsonConvert.DeserializeObject<APIData>(json);
                 List<WeatherRecord> weatherRecords = new List<WeatherRecord>();
@@ -76,12 +77,12 @@ namespace Api.UnitTests.Services
                     }
                 }
                 var newJSON = JsonConvert.SerializeObject(weatherRecords.ToArray(), Formatting.Indented);
-                File.WriteAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_output.json"), newJSON);
+                File.WriteAllText(outputDirectory, newJSON);
                 success = true;
             } 
             catch (FileNotFoundException e)
             {
-                Console.WriteLine("FileNotFoundException: {0}\nDirectory: {1}", e, directory);
+                Console.WriteLine("FileNotFoundException: {0}\ninputDirectory: {1}", e, inputDirectory);
             }
             catch (JsonSerializationException e)
             {
