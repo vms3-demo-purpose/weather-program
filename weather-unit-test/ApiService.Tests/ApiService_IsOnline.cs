@@ -77,7 +77,6 @@ namespace Api.UnitTests.Services
                 }
                 var newJSON = JsonConvert.SerializeObject(weatherRecords.ToArray(), Formatting.Indented);
                 File.WriteAllText(Path.Combine(TestContext.CurrentContext.TestDirectory, queryDate + "_output.json"), newJSON);
-                throw new JsonSerializationException();
                 success = true;
             } 
             catch (FileNotFoundException e)
