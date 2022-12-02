@@ -4,20 +4,23 @@ Weather-API passes JSON to DB, DB performs queries for data insertion
 weather-program deserialises JSON and uses EF Core to insert data into DB
 
 # General Flow
+0. Tests are conducted prior to the start of the containers. This ensures the API is online and the format of the JSON obtained is unchanged.
 1. Data is retrieved from [https://api.data.gov.sg](https://api.data.gov.sg/v1/environment/2-hour-weather-forecast?date=2022-11-01)
 2. A portion of the entire JSON is extracted, transformed and rewritten into a new JSON with only 4 fields: Area, Forecast, Start Time and End Time.
 3. The saved JSON will be located in `/data/pull/` (volume mount point) and saved as dd-MM-yyyy.json, e.g. `/data/pull/01-11-2022.json`
 4. This JSON will be retrieved from `/data/push/` (volume mount point) and deserialised into WeatherRecord(s) to be pushed into a SQL Server.
 
 # How the containers will fit together
-There will be 3 containers:
+There will be 4 containers:
 
-A. `weather-pull-data` will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
+A. `weather-unit-test` tests to see if API is online, and if the API returns a JSON in a format which can be deserialised into WeatherRecords.
+
+B. `weather-pull-data` will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
 to be saved in a volume. (Steps 1 - 3)
 
-B. `weather-push-data` will retrieve the JSON from the volume and push it to a container running MSSQL. (Step 4)
+C. `weather-push-data` will retrieve the JSON from the volume and push it to a container running MSSQL. (Step 4)
 
-C. `weather-save-data` will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON. (Step 4)
+D. `weather-save-data` will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON. (Step 4)
 
 Another front-end will be connecting to `weather-save-data` to retrieve weather records to be visually displayed. 
 
@@ -27,6 +30,14 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 `docker compose up --build -d`
 
 # Verifying that each container is running properly:
+
+To check if API is online and if JSON returned is unchanged, run:
+
+`docker logs --follow weather-unit-test`
+
+The output should be something like:
+
+`Passed! - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 1s`
 
 To check if `weather-pull-data` is successful, run: 
 
