@@ -31,7 +31,7 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
 # Verifying that each container is running properly:
 
-To check if API is online and if JSON returned is unchanged, run:
+To check `weather-unit-test` is successful, run:
 
 `docker logs --follow weather-unit-test`
 
