@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WeatherApi.Data;
+using Newtonsoft.Json.Linq;
 
 // Create builder
 var builder = WebApplication.CreateBuilder();
@@ -11,7 +12,14 @@ builder.Configuration.AddJsonFile("appsettings.Development.json");
 // Add services to builder    
 builder.Services.AddControllers();
 builder.Services.AddDbContext<WeatherContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("WeatherDb"))
+    {
+        string source = System.IO.File.ReadAllText("/run/secrets/my-secret");
+        dynamic data = JObject.Parse(source);
+        string secretConnectionString = data.ConnectionString;
+        Console.WriteLine("connectionString from secret:  {0}", secretConnectionString);
+
+        options.UseSqlServer(secretConnectionString);
+    }
 );
 
 // Build based on config files and services
