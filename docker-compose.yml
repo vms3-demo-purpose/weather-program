@@ -26,7 +26,6 @@ services:
     build: weather-pull-data
     volumes:
       - volume:/data/pull
-    tty: true
     depends_on:
       - weather-unit-test
 

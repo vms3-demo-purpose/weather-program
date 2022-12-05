@@ -17,7 +17,6 @@ namespace WebApiClient
             {
                 Console.WriteLine(e);
             }
-            Console.Read();
         }
 
         static async Task CallWeatherAPI()
