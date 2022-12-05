@@ -33,51 +33,53 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
 * To check `weather-unit-test` is successful, run:
 
-&emsp;&emsp;`docker logs --follow weather-unit-test`
+  `docker logs --follow weather-unit-test`
 
-&emsp;&emsp;The output should be something like:
+  The output should be something like:
 
-&emsp;&emsp;`Passed! - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 1s`
+  `Passed! - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 1s`
 
-&emsp;&emsp;Press `Ctrl + C` to stop following the logs.
+  Press `Ctrl + C` to stop following the logs.
 
 * To check if `weather-pull-data` is successful, run: 
 
-&emsp;&emsp;`docker logs --follow weather-pull-data`
+  `docker logs --follow weather-pull-data`
 
-&emsp;&emsp;The output should be something like:
+  The output should be something like:
 
-&emsp;&emsp;`Pulled 1234 weather records for date: 01-01-1970.`
+  `Pulled 1234 weather records for date: 01-01-1970.`
 
-&emsp;&emsp;Press `Ctrl + C` to stop 'following' the logs. Note the number of weather records pulled here.
+  Press `Ctrl + C` to stop 'following' the logs. Note the number of weather records pulled here.
 
 * To check if `weather-push-data` is successful, run:
 
-&emsp;&emsp;`docker logs --follow weather-push-data`
+  `docker logs --follow weather-push-data`
 
-&emsp;&emsp;The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime. 
+  The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime. 
        
-&emsp;&emsp;Again, press `Ctrl + C` to stop 'following' the logs. 
+  Again, press `Ctrl + C` to stop 'following' the logs. 
        
-&emsp;&emsp;Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
+  Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by 
 
-&emsp;&emsp;Press `Ctrl + C` to stop following the logs.
+  `weather-pull-data`.
+
+  Press `Ctrl + C` to stop following the logs.
 
 * To double check if `weather-save-data` is successful, run the following commands:
 
-&emsp;&emsp;`docker exec -ti weather-save-data bash`
+  `docker exec -ti weather-save-data bash`
 
-&emsp;&emsp;`/opt/mssql-tools/bin/sqlcmd -U SA`
+  `/opt/mssql-tools/bin/sqlcmd -U SA`
 
-&emsp;&emsp;`<INPUT PASSWORD>`
+  `<INPUT PASSWORD>`
 
-&emsp;&emsp;`SELECT * FROM WeatherRecords;`
+  `SELECT * FROM WeatherRecords;`
 
-&emsp;&emsp;`GO`
+  `GO`
 
-&emsp;&emsp;The above string of commands should also output a loooong list of weather records (but not formatted nicely). 
+  The above string of commands should also output a loooong list of weather records (but not formatted nicely). 
        
-&emsp;&emsp;Again, the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
+  Again, the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
 
 # Versions of Framework and Libraries used:
 1. docker-compose: 3.1
