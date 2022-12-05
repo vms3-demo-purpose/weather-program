@@ -39,6 +39,8 @@ The output should be something like:
 
 `Passed! - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 1s`
 
+Press `Ctrl + C` to stop following the logs.
+
 To check if `weather-pull-data` is successful, run: 
 
 `docker logs --follow weather-pull-data`
@@ -55,6 +57,8 @@ To check if `weather-push-data` is successful, run:
 
 The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime. Again, press `Ctrl + C` to stop 'following' the logs. Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
 
+Press `Ctrl + C` to stop following the logs.
+
 To double check if `weather-save-data` is successful, run the following commands:
 
 `docker exec -ti weather-save-data bash`
@@ -70,7 +74,7 @@ To double check if `weather-save-data` is successful, run the following commands
 The above string of commands should also output a loooong list of weather records (but not formatted nicely). Again, the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
 
 # Versions of Framework and Libraries used:
-1. docker-compose: 3
+1. docker-compose: 3.1
 2. SQL Server: 2019-CU18-ubuntu-20.04
 3. .NET: 6.0.402
 
