@@ -23,7 +23,7 @@ namespace WeatherApi.Data
             var singaporeTime = TimeZoneInfo.ConvertTime(DateTime.Today, TimeZoneInfo.FindSystemTimeZoneById("Singapore Standard Time"));
             var queryDate = singaporeTime.ToString("dd-MM-yyyy");
             string pathToJson = "/data/push/" + queryDate + ".json";
-            String json = File.ReadAllText(pathToJson);
+            var json = File.ReadAllText(pathToJson);
 
             // Deserialize json for insertion
             List<WeatherRecord> weatherRecords = JsonConvert.DeserializeObject<List<WeatherRecord>>(json);
@@ -43,6 +43,10 @@ namespace WeatherApi.Data
             {
                 Console.WriteLine(wr);
             }
+
+            // Log
+            Console.WriteLine("There are {0} records in weatherRecords.", weatherRecords.Count);
+            Console.WriteLine("There are {0} records in weatherContext.WeatherRecords.ToList().", allRecords.Count);
         }
     }
 }
