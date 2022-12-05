@@ -10,7 +10,7 @@
 # My Project
 bin/
 out/
-secret.json
+./secret.json
 
 # User-specific files
 *.rsuser
