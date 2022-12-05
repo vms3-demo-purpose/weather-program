@@ -59,7 +59,9 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
        
 &emsp;&emsp;Again, press `Ctrl + C` to stop 'following' the logs. 
        
-&emsp;&emsp;Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
+&emsp;&emsp;Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by 
+
+&emsp;&emsp;`weather-pull-data`.
 
 &emsp;&emsp;Press `Ctrl + C` to stop following the logs.
 
