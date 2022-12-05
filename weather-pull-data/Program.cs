@@ -43,7 +43,7 @@ namespace WebApiClient
                     bool internalServerError = jsonResponse.Contains("Internal Server Error");
                     // If API is down, read from offline backup, else read from response
                     APIData apiData = JsonConvert.DeserializeObject<APIData>(internalServerError ? 
-                        File.ReadAllText("offline_response.json") : 
+                        File.ReadAllText("/offline_json/offline_response.json") : 
                         await response.Content.ReadAsStringAsync()
                     );
 
