@@ -4,10 +4,6 @@ using Newtonsoft.Json.Linq;
 
 // Create builder
 var builder = WebApplication.CreateBuilder();
-
-// Add configuration files to builder
-builder.Configuration.AddJsonFile("appsettings.json");
-builder.Configuration.AddJsonFile("appsettings.Development.json");
     
 // Add services to builder    
 builder.Services.AddControllers();
