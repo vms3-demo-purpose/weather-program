@@ -38,6 +38,7 @@ namespace WeatherApi.Data
             // Read
             Console.WriteLine("Querying for all Weather Record");
             var allRecords = weatherContext.WeatherRecords.ToList();
+
             foreach (WeatherRecord wr in allRecords)
             {
                 Console.WriteLine(wr);
