@@ -1,8 +1,3 @@
-# Weather-API vs weather-program:
-Weather-API passes JSON to DB, DB performs queries for data insertion
-
-weather-program deserialises JSON and uses EF Core to insert data into DB
-
 # General Flow
 0. Tests are conducted prior to the start of the containers. This ensures the API is online and the format of the JSON obtained is unchanged.
 1. Data is retrieved from [Data.gov.sg](https://data.gov.sg/dataset/weather-forecast)
@@ -13,61 +8,55 @@ weather-program deserialises JSON and uses EF Core to insert data into DB
 # How the containers will fit together
 There will be 4 containers:
 
-A. `weather-unit-test` tests to see if API is online, and if the API returns a JSON in a format which can be deserialised into WeatherRecords.
+A. `test` tests to see if API is online, and if the API returns a JSON in a format which can be deserialised into WeatherRecords.
 
-B. `weather-pull-data` will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
+B. `pull` will produce a [JSON](https://github.com/vms3-demo-purpose/weather-program/files/9934735/01-11-2022.json.txt)
 to be saved in a volume. (Steps 1 - 3)
 
-C. `weather-push-data` will retrieve the JSON from the volume and push it to a container running MSSQL. (Step 4)
+C. `push` will retrieve the JSON from the volume and push it to a container running MSSQL. (Step 4)
 
-D. `weather-save-data` will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON. (Step 4)
+D. `save` will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON. (Step 4)
 
-Another front-end will be connecting to `weather-save-data` to retrieve weather records to be visually displayed. 
+Another front-end will be connecting to `save` to retrieve weather records to be visually displayed. 
 
 # Running the container
 Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command:
 
-`docker compose up --build -d`
+`docker volume create weather`
+
+This is the volume where data will be persisted. Next, start up all the containers with:
+
+`docker compose --profile all up --build -d`
 
 # Verifying that each container is running properly:
 
-* To check `weather-unit-test` is successful, run:
+* To check `test` is successful, run:
 
-  `docker logs --follow weather-unit-test`
+  `docker logs --follow test`
 
   The output should be something like:
 
   `Passed! - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 1s`
 
-  Press `Ctrl + C` to stop following the logs.
+* To check if `pull` is successful, run: 
 
-* To check if `weather-pull-data` is successful, run: 
-
-  `docker logs --follow weather-pull-data`
+  `docker logs --follow pull`
 
   The output should be something like:
 
   `Pulled 1234 weather records for date: 01-01-1970.`
 
-  Press `Ctrl + C` to stop 'following' the logs. Note the number of weather records pulled here.
+* To check if `push` is successful, run:
 
-* To check if `weather-push-data` is successful, run:
+  `docker logs --follow push`
 
-  `docker logs --follow weather-push-data`
-
-  The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime. 
+  The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime.  
        
-  Again, press `Ctrl + C` to stop 'following' the logs. 
-       
-  Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by 
+  Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `pull`.
 
-  `weather-pull-data`.
+* To double check if `save` is successful, run the following commands:
 
-  Press `Ctrl + C` to stop following the logs.
-
-* To double check if `weather-save-data` is successful, run the following commands:
-
-  `docker exec -ti weather-save-data bash`
+  `docker exec -ti save bash`
 
   `/opt/mssql-tools/bin/sqlcmd -U SA`
 
@@ -79,7 +68,11 @@ Clone the repository. Open PowerShell (preferably with administrator rights), na
 
   The above string of commands should also output a loooong list of weather records (but not formatted nicely). 
        
-  Again, the ID of the last weather record displayed here should tally with the number of weather records pulled by `weather-pull-data`.
+  Again, the ID of the last weather record displayed here should tally with the number of weather records pulled by `pull`.
+  
+  The containers `test`, `pull` and `push` exits upon completion of their tasks. To re-sync data from [Data.gov.sg](https://data.gov.sg/dataset/weather-forecast) you can restart just these three containers with `docker compose --profile seed up --build -d`.
+  
+  All containers can be terminated with the command `docker compose --profile all down`.
 
 # Versions of Framework and Libraries used:
 1. docker-compose: 3.1
@@ -91,7 +84,11 @@ Q1. Error response from daemon: Ports are not available ... An attempt was made 
 
 A1. Restart the Host Network Service with the following commands:   `net stop hns` `net start hns`
 
-Q2. Sometimes `weather-push-data` cannot establish connection to `weather-save-data` as the database has not finished initialisation. 
+Q2. Sometimes `push` cannot establish connection to `save` as the database has not finished initialisation. 
 
-A2. Just wait. Logic has been implemented to restart `weather-push-data` so just give it a minute and it will start pushing data into `weather-save-data`.
+A2. Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
 
+# Weather-API vs weather-program:
+Weather-API passes JSON to DB, DB performs queries for data insertion
+
+weather-program deserialises JSON and uses EF Core to insert data into DB
