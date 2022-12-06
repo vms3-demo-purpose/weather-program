@@ -92,6 +92,9 @@ Q2. Sometimes `push` cannot establish connection to `save` as the database has n
 
 A2. Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
 
+Q3. Login failed for user 'SA'
+A3. Ensure the volume `weather` has been created.
+
 # Weather-API vs weather-program:
 Weather-API passes JSON to DB, DB performs queries for data insertion
 
