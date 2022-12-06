@@ -43,10 +43,6 @@ namespace WeatherApi.Data
             {
                 Console.WriteLine(wr);
             }
-
-            // Log
-            Console.WriteLine("There are {0} records in weatherRecords.", weatherRecords.Count);
-            Console.WriteLine("There are {0} records in weatherContext.WeatherRecords.ToList().", allRecords.Count);
         }
     }
 }

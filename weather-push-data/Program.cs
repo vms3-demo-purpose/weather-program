@@ -12,8 +12,6 @@ builder.Services.AddDbContext<WeatherContext>(options =>
         string source = System.IO.File.ReadAllText("/run/secrets/my-secret");
         dynamic data = JObject.Parse(source);
         string secretConnectionString = data.ConnectionString;
-        Console.WriteLine("connectionString from secret:  {0}", secretConnectionString);
-
         options.UseSqlServer(secretConnectionString);
     }
 );
@@ -32,5 +30,3 @@ using (var scope = app.Services.CreateScope())
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
-
-Console.Read();
