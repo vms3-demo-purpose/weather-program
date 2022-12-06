@@ -1,0 +1,20 @@
+version: "3.1"  
+services:
+  weather-save-data:
+    container_name: save
+    image: mcr.microsoft.com/mssql/server:2019-CU18-ubuntu-20.04
+    user: root
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD}"
+      MSSQL_PID: "Developer"
+    ports:
+      - "${PORTS}"
+    volumes:
+      - weather:/var/opt/mssql/data
+    profiles:
+      - database
+      - all
+volumes:
+  weather:
+    external: true

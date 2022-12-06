@@ -10,6 +10,7 @@
 # My Project
 bin/
 out/
+.env
 # secret.json
 
 # User-specific files

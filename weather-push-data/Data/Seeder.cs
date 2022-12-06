@@ -1,4 +1,6 @@
 using Newtonsoft.Json;
+using Microsoft.EntityFrameworkCore;
+
 namespace WeatherApi.Data
 {
     public static class Seeder
@@ -8,13 +10,8 @@ namespace WeatherApi.Data
             // Wipe previously existing data
             if (weatherContext.WeatherRecords.Any())
             {
-                var rows =  from o in weatherContext.WeatherRecords
-                            select o;
-                
-                foreach (var row in rows)
-                {
-                    weatherContext.WeatherRecords.Remove(row);
-                }
+                string sqlCommand = "TRUNCATE TABLE WeatherRecords";
+                weatherContext.Database.ExecuteSqlRaw(sqlCommand);
                 weatherContext.SaveChanges();
             }
             
@@ -36,9 +33,7 @@ namespace WeatherApi.Data
             weatherContext.SaveChanges();
 
             // Read
-            Console.WriteLine("Querying for all Weather Record");
             var allRecords = weatherContext.WeatherRecords.ToList();
-
             foreach (WeatherRecord wr in allRecords)
             {
                 Console.WriteLine(wr);

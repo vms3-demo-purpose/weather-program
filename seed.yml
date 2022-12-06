@@ -1,0 +1,46 @@
+version: "3.1"  
+services:
+  weather-unit-test:
+    container_name: test
+    volumes:
+      - weather:/data/test
+    build: weather-unit-test/ApiService.Tests
+    profiles:
+      - seed
+      - all
+  weather-pull-data:
+    container_name: pull
+    environment:
+      TZ: "Asia/Singapore"
+    build: weather-pull-data
+    volumes:
+      - weather:/data/pull
+    depends_on:
+      - weather-unit-test
+    profiles:
+      - seed
+      - all
+  weather-push-data:
+    container_name: push
+    build: weather-push-data
+    volumes:
+      - weather:/data/push
+    depends_on:
+      - weather-save-data
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 10s
+        max_attempts: 3
+        window: 60s
+    secrets:
+      - my-secret
+    profiles:
+      - seed
+      - all
+secrets:
+  my-secret:
+    file: secret.json
+volumes:
+  weather:
+    external: true
