@@ -27,6 +27,8 @@ using (var scope = app.Services.CreateScope())
     weatherContext.Seed();
 }
 
+/*
 app.UseAuthorization();
 app.MapControllers();
 app.Run();
+*/
