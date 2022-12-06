@@ -41,8 +41,9 @@ namespace WebApiClient
                     string jsonResponse = await response.Content.ReadAsStringAsync();
                     bool internalServerError = jsonResponse.Contains("Internal Server Error");
                     // If API is down, read from offline backup, else read from response
+
                     APIData apiData = JsonConvert.DeserializeObject<APIData>(internalServerError ? 
-                        File.ReadAllText("/offline_json/offline_response.json") : 
+                        File.ReadAllText("offline_response.json") : 
                         await response.Content.ReadAsStringAsync()
                     );
 
@@ -62,11 +63,11 @@ namespace WebApiClient
                                 SqlStartTime = start.ToString("yyyy-MM-dd HH:mm:ss"),
                                 SqlEndTime = end.ToString("yyyy-MM-dd HH:mm:ss")
                             });
-
-                            string newJSON = JsonConvert.SerializeObject(weatherRecord.ToArray(), Formatting.Indented);
-                            System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
                         }
                     }
+                    string newJSON = JsonConvert.SerializeObject(weatherRecord.ToArray(), Formatting.Indented);
+                    System.IO.File.WriteAllText("/data/pull/" + sqlDate + ".json", newJSON);
+
                     Console.Write("Pulled {0} weather records for date: {1} from ", weatherRecord.Count, sqlDate);
                     Console.WriteLine(internalServerError ? "offline backup." : "data.gov.sg.");
                     return;
