@@ -5,7 +5,7 @@ weather-program deserialises JSON and uses EF Core to insert data into DB
 
 # General Flow
 0. Tests are conducted prior to the start of the containers. This ensures the API is online and the format of the JSON obtained is unchanged.
-1. Data is retrieved from [Data.gov.sg]https://data.gov.sg/dataset/weather-forecast)
+1. Data is retrieved from [Data.gov.sg](https://data.gov.sg/dataset/weather-forecast)
 2. A portion of the entire JSON is extracted, transformed and rewritten into a new JSON with only 4 fields: Area, Forecast, Start Time and End Time.
 3. The saved JSON will be located in `/data/pull/` (volume mount point) and saved as dd-MM-yyyy.json, e.g. `/data/pull/01-11-2022.json`
 4. This JSON will be retrieved from `/data/push/` (volume mount point) and deserialised into WeatherRecord(s) to be pushed into a SQL Server.
