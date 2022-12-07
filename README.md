@@ -30,7 +30,7 @@ This is the volume where data will be persisted.
 
 2. Lastly, start up all the containers with:
 
-`docker compose --profile all up --build -d`
+`docker compose --env-file ./.env --profile all up --build -d`
 
 # Verifying that each container is running properly:
 
