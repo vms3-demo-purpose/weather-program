@@ -20,11 +20,15 @@ D. `save` will store data in the following [schema](https://github.com/vms3-demo
 Another front-end will be connecting to `save` to retrieve weather records to be visually displayed. 
 
 # Running the container
-Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command:
+0. Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command:
 
 `docker volume create weather`
 
-This is the volume where data will be persisted. Next, start up all the containers with:
+This is the volume where data will be persisted. 
+
+1. Next, rename `.env.example` to `.env`. Replace the password accordingly.
+
+2. Lastly, start up all the containers with:
 
 `docker compose --profile all up --build -d`
 
@@ -87,6 +91,9 @@ A1. Restart the Host Network Service with the following commands:   `net stop hn
 Q2. Sometimes `push` cannot establish connection to `save` as the database has not finished initialisation. 
 
 A2. Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
+
+Q3. Login failed for user 'SA'
+A3. Ensure the volume `weather` has been created.
 
 # Weather-API vs weather-program:
 Weather-API passes JSON to DB, DB performs queries for data insertion
