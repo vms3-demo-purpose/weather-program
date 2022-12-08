@@ -66,16 +66,17 @@ Another front-end will be connecting to `save` to retrieve weather records to be
 3. .NET: 6.0.402
 
 # Troubleshooting
-Q1. Error response from daemon: Ports are not available ... An attempt was made to access a socket in a way forbidden by its access permissions.
+1. Error response from daemon: Ports are not available ... An attempt was made to access a socket in a way forbidden by its access permissions.
 
-A1. Restart the Host Network Service with the following commands:   `net stop hns` `net start hns`
+> Restart the Host Network Service with the following commands:   `net stop hns` `net start hns`
 
-Q2. Sometimes `push` cannot establish connection to `save` as the database has not finished initialisation. 
+2. Sometimes `push` cannot establish connection to `save` as the database has not finished initialisation. 
 
-A2. Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
+> Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
 
-Q3. Login failed for user 'SA'
-A3. Check the logs to see if the .env variables have been properly loaded in.
+3. Login failed for user 'SA'
+
+> You probably got the password wrong.
 
 # Weather-API vs weather-program:
 Weather-API passes JSON to DB, DB performs queries for data insertion
