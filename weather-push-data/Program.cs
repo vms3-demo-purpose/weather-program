@@ -9,11 +9,11 @@ var builder = WebApplication.CreateBuilder();
 builder.Services.AddControllers();
 builder.Services.AddDbContext<WeatherContext>(options =>
     {
-        string secretConnectionString = 
+        string connectionString = 
             "Server=weather-save-data;Database=Master;User Id=SA;Password=" +
             System.Environment.GetEnvironmentVariable("DB_PASSWORD") +
             ";MultipleActiveResultSets=true;";
-        options.UseSqlServer(secretConnectionString);
+        options.UseSqlServer(connectionString);
     }
 );
 

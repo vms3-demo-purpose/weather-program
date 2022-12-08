@@ -35,14 +35,9 @@ services:
         delay: 10s
         max_attempts: 3
         window: 60s
-    secrets:
-      - my-secret
     profiles:
       - seed
       - all
-secrets:
-  my-secret:
-    file: secret.json
 volumes:
   weather:
     external: true
