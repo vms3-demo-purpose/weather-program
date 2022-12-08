@@ -20,41 +20,23 @@ D. `save` will store data in the following [schema](https://github.com/vms3-demo
 Another front-end will be connecting to `save` to retrieve weather records to be visually displayed. 
 
 # Running the container
-0. Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command:
-
-`docker volume create weather`
-
-This is the volume where data will be persisted. 
+0. Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command: `docker volume create weather` This is the volume where data will be persisted. 
 
 1. Next, rename `.env.example` to `.env`. Acknowledge the warning. Replace the password accordingly.
 
-2. Lastly, start up all the containers with:
-
-`docker compose --env-file .env --profile all up --build -d`
+2. Lastly, start up all the containers with: `docker compose --profile all up -d`.
 
 # Verifying that each container is running properly:
 
-* To check `test` is successful, run:
-
-  `docker logs test`
-
-  The output should be something like:
+* To check `test` is successful, run: `docker logs test`.  The output should be something like:
 
   `Passed! - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 1s`
 
-* To check if `pull` is successful, run: 
-
-  `docker logs pull`
-
-  The output should be something like:
+* To check if `pull` is successful, run: `docker logs pull`. The output should be something like:
 
   `Pulled 1234 weather records for date: 01-01-1970.`
 
-* To check if `push` is successful, run:
-
-  `docker logs push`
-
-  The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime.  
+* To check if `push` is successful, run: `docker logs push`. The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime.  
        
   Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `pull`.
 
@@ -84,16 +66,17 @@ This is the volume where data will be persisted.
 3. .NET: 6.0.402
 
 # Troubleshooting
-Q1. Error response from daemon: Ports are not available ... An attempt was made to access a socket in a way forbidden by its access permissions.
+1. Error response from daemon: Ports are not available ... An attempt was made to access a socket in a way forbidden by its access permissions.
 
-A1. Restart the Host Network Service with the following commands:   `net stop hns` `net start hns`
+> Restart the Host Network Service with the following commands:   `net stop hns` `net start hns`
 
-Q2. Sometimes `push` cannot establish connection to `save` as the database has not finished initialisation. 
+2. Sometimes `push` cannot establish connection to `save` as the database has not finished initialisation. 
 
-A2. Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
+> Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
 
-Q3. Login failed for user 'SA'
-A3. Check the logs to see if the .env variables have been properly loaded in.
+3. Login failed for user 'SA'
+
+> You probably got the password wrong.
 
 # Weather-API vs weather-program:
 Weather-API passes JSON to DB, DB performs queries for data insertion
