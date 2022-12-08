@@ -30,13 +30,13 @@ This is the volume where data will be persisted.
 
 2. Lastly, start up all the containers with:
 
-`docker compose --env-file ./.env --profile all up --build -d`
+`docker compose --env-file .env --profile all up --build -d`
 
 # Verifying that each container is running properly:
 
 * To check `test` is successful, run:
 
-  `docker logs --follow test`
+  `docker logs test`
 
   The output should be something like:
 
@@ -44,7 +44,7 @@ This is the volume where data will be persisted.
 
 * To check if `pull` is successful, run: 
 
-  `docker logs --follow pull`
+  `docker logs pull`
 
   The output should be something like:
 
@@ -52,7 +52,7 @@ This is the volume where data will be persisted.
 
 * To check if `push` is successful, run:
 
-  `docker logs --follow push`
+  `docker logs push`
 
   The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime.  
        
@@ -93,7 +93,7 @@ Q2. Sometimes `push` cannot establish connection to `save` as the database has n
 A2. Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
 
 Q3. Login failed for user 'SA'
-A3. Ensure the volume `weather` has been created.
+A3. Check the logs to see if the .env variables have been properly loaded in.
 
 # Weather-API vs weather-program:
 Weather-API passes JSON to DB, DB performs queries for data insertion
