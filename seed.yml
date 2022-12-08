@@ -2,14 +2,14 @@ version: "3.1"
 services:
   weather-unit-test:
     container_name: test
+    profiles: ["seed", "all"]
     volumes:
       - weather:/data/test
     build: weather-unit-test/ApiService.Tests
-    profiles:
-      - seed
-      - all
+
   weather-pull-data:
     container_name: pull
+    profiles: ["seed", "all"]
     environment:
       TZ: "Asia/Singapore"
     build: weather-pull-data
@@ -17,11 +17,10 @@ services:
       - weather:/data/pull
     depends_on:
       - weather-unit-test
-    profiles:
-      - seed
-      - all
+
   weather-push-data:
     container_name: push
+    profiles: ["seed", "all"]
     environment:
       - DB_PASSWORD
     build: weather-push-data
@@ -35,9 +34,7 @@ services:
         delay: 10s
         max_attempts: 3
         window: 60s
-    profiles:
-      - seed
-      - all
+    
 volumes:
   weather:
     external: true

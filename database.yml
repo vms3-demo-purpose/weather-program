@@ -12,9 +12,7 @@ services:
       - "${DB_PORTS:?err}"
     volumes:
       - weather:/var/opt/mssql/data
-    profiles:
-      - database
-      - all
+    profiles: ["database"]
 volumes:
   weather:
     external: true
