@@ -26,7 +26,7 @@ Another front-end will be connecting to `save` to retrieve weather records to be
 
 This is the volume where data will be persisted. 
 
-1. Next, rename `.env.example` to `.env`. Replace the password accordingly.
+1. Next, rename `.env.example` to `.env`. Acknowledge the warning. Replace the password accordingly.
 
 2. Lastly, start up all the containers with:
 
