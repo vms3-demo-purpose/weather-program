@@ -24,19 +24,19 @@ Another front-end will be connecting to `save` to retrieve weather records to be
 
 1. Next, rename `.env.example` to `.env`. Acknowledge the warning. Replace the password accordingly.
 
-2. Lastly, start up all the containers with: `docker compose --profile all up -d`
+2. Lastly, start up all the containers with: `docker compose --profile all up -d`.
 
 # Verifying that each container is running properly:
 
-* To check `test` is successful, run: `docker logs test`  The output should be something like:
+* To check `test` is successful, run: `docker logs test`.  The output should be something like:
 
   `Passed! - Failed: 0, Passed: 2, Skipped: 0, Total: 2, Duration: 1s`
 
-* To check if `pull` is successful, run: `docker logs pull` The output should be something like:
+* To check if `pull` is successful, run: `docker logs pull`. The output should be something like:
 
   `Pulled 1234 weather records for date: 01-01-1970.`
 
-* To check if `push` is successful, run: `docker logs push` The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime.  
+* To check if `push` is successful, run: `docker logs push`. The output should be a looong list of weather records with ID, Area, Forecast, StartTime and EndTime.  
        
   Note that the ID of the last weather record displayed here should tally with the number of weather records pulled by `pull`.
 
