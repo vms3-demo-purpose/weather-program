@@ -6,10 +6,10 @@ services:
     user: root
     environment:
       ACCEPT_EULA: "Y"
-      MSSQL_SA_PASSWORD: "${DB_PASSWORD}"
-      MSSQL_PID: "Express"
+      MSSQL_SA_PASSWORD: "${DB_PASSWORD:?err}"
+      MSSQL_PID: "Developer"
     ports:
-      - "${DB_PORTS}"
+      - "${DB_PORTS:?err}"
     volumes:
       - weather:/var/opt/mssql/data
     profiles:
