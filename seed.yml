@@ -22,6 +22,8 @@ services:
       - all
   weather-push-data:
     container_name: push
+    environment:
+      - DB_PASSWORD
     build: weather-push-data
     volumes:
       - weather:/data/push
