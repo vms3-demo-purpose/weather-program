@@ -71,7 +71,7 @@ Another front-end will be connecting to `save` to retrieve weather records to be
 
 > Restart the Host Network Service with the following commands:   `net stop hns` `net start hns`
 
-2. Sometimes `push` cannot establish connection to `save` as the database has not finished initialisation. 
+2. 'A connection was successfully established with the server, but then an error occurred during the pre-login handshake.' 
 
 > Just wait. Logic has been implemented to restart `push` so just give it a minute and it will start pushing data into `save`.
 
