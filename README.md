@@ -15,7 +15,8 @@ to be saved in a volume. (Steps 1 - 3)
 
 C. `push` will retrieve the JSON from the volume and push it to a container running MSSQL. (Step 4)
 
-D. `save` will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/9934736/CREATE_TABLE.sql.txt) based on data from the JSON. (Step 4)
+D. `save` will store data in the following [schema](https://github.com/vms3-demo-purpose/weather-program/files/10191628/CREATE_TABLE.sql.txt)
+ based on data from the JSON. (Step 4)
 
 Another front-end will be connecting to `save` to retrieve weather records to be visually displayed. 
 
