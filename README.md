@@ -23,9 +23,7 @@ Another front-end will be connecting to `save` to retrieve weather records to be
 # Running the container
 0. Clone the repository. Open PowerShell (preferably with administrator rights), navigate to the `/weather-program/` directory and run the following command: `docker volume create weather` This is the volume where data will be persisted. 
 
-1. Next, rename `.env.example` to `.env`. Acknowledge the warning. Replace the password accordingly.
-
-2. Lastly, start up all the containers with: `docker compose --profile all up -d`.
+1. Start up all the containers with: `docker compose --profile all up -d`.
 
 # Verifying that each container is running properly:
 
