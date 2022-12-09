@@ -23,7 +23,7 @@ services:
     container_name: push
     profiles: ["seed", "all"]
     environment:
-      - CONNECTION_STRING
+      - DB_PASSWORD
     build: weather-push-data
     volumes:
       - weather:/data/push
